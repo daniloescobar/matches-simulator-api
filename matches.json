@@ -11,6 +11,40 @@
 			"imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
 		},
 		"visitante":{
+			"nome": "Argentina",
+			"força": 5,
+			"imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+		}
+	},
+	{
+		"descrição": "Eliminatórias para Copa do Mundo",
+		"local":{
+			"nome": "Montevideo",
+			"imagem": "TODO"
+		},
+		"mandante":{
+			"nome": "Uruguai",
+			"força": 4,
+			"imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+		},
+		"visitante":{
+			"nome": "Brasil",
+			"força": 5,
+			"imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+		}
+	},
+	{
+		"descrição": "Eliminatórias para Copa do Mundo",
+		"local":{
+			"nome": "La Bombonera",
+			"imagem": "TODO"
+		},
+		"mandante":{
+			"nome": "Argentina",
+			"força": 5,
+			"imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+		},
+		"visitante":{
 			"nome": "Uruguai",
 			"força": 4,
 			"imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
